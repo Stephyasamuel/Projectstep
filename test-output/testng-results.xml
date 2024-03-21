@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T22:27:28 IST" name="Default suite" finished-at="2024-03-10T22:28:29 IST" duration-ms="61297">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T22:27:28 IST" name="Default test" finished-at="2024-03-10T22:28:29 IST" duration-ms="61297">
+      <class name="testpckg.Datadriventest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpckg.Datadriventest@5e600dd5]" started-at="2024-03-10T22:27:28 IST" name="setup" finished-at="2024-03-10T22:28:02 IST" duration-ms="33814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="datadriven()[pri:0, instance:testpckg.Datadriventest@5e600dd5]" started-at="2024-03-10T22:28:02 IST" name="datadriven" finished-at="2024-03-10T22:28:29 IST" duration-ms="27432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriven -->
+      </class> <!-- testpckg.Datadriventest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
